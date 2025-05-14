@@ -1530,11 +1530,6 @@ body._lock {
   font-family: "Poppins", sans-serif;
   margin-bottom: 1.0625rem;
 }
-@media (any-hover: hover) {
-  .products__tag:hover {
-    text-decoration: underline;
-  }
-}
 .products__footer {
   display: block;
   padding-top: 1.0625rem;
